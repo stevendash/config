@@ -1,6 +1,6 @@
-DOMAIN-SUFFIX,jmsooo.com
-DOMAIN-SUFFIX,emby.wtf
-DOMAIN-SUFFIX,misakaf.xyz
-DOMAIN-SUFFIX,charontv.com
-DOMAIN-KEYWORD,stevendash
-IP-CIDR,62.171.181.8/32
+DOMAIN-SUFFIX,jmsooo.com,Emby
+DOMAIN-SUFFIX,emby.wtf,Emby
+DOMAIN-SUFFIX,misakaf.xyz,Emby
+DOMAIN-SUFFIX,charontv.com,Emby
+DOMAIN-KEYWORD,emby,Emby
+IP-CIDR,62.171.181.8/32,Emby
